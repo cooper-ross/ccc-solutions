@@ -1,7 +1,2 @@
 # CCC Solutions
-My personal collection of C++ solutions for the Canadian Computing Competition (CCC).
-
-## Purpose
-- Practice CCC problems.
-- Track which problems I've solved.
-- Keep clean (sorta), easy-to-review code.
+My personal collection of C++ solutions for the Canadian Computing Competition (CCC) so I can practice problems and have an archive of that practice for later review, as well as track which problems I've solved!
