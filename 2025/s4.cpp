@@ -22,6 +22,9 @@ bool operator>(const Node& a, const Node& b) {
 }
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     int numVertices, numEdges;
     cin >> numVertices >> numEdges;
 
