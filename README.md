@@ -19,3 +19,4 @@ My personal collection of C++ solutions for the Canadian Computing Competition (
 
 ### 2025 Canadian Computing Olympiad (CCO)
 - `cco_p1.cpp` - Asteroid Mining
+- `cco_p2.cpp` - Tree Decorations
