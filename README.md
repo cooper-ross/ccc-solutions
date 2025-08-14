@@ -3,6 +3,9 @@ My personal collection of C++ solutions for the Canadian Computing Competition (
 
 ## Contests
 
+### 2022 Canadian Computing Competition (CCC)
+- `s1.cpp` - Good Fours and Good Fives
+
 ### 2024 Canadian Computing Competition (CCC)
 - `s1.cpp` - Hat Circle
 - `s2.cpp` - Heavy-Light Composition
