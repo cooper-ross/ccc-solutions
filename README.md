@@ -7,6 +7,9 @@ My personal collection of C++ solutions for the Canadian Computing Competition (
 - `s1.cpp` - Good Fours and Good Fives
 - `s2.cpp` - Good Groups
 
+### 2023 Canadian Computing Competition (CCC)
+- `s1.cpp` - Trianglane
+
 ### 2024 Canadian Computing Competition (CCC)
 - `s1.cpp` - Hat Circle
 - `s2.cpp` - Heavy-Light Composition
