@@ -141,7 +141,7 @@ int main() {
         }
         
         current_answer = tree_begin[0] + tree_time[0];
-        cout << current_answer << "\n";
+        cout << current_answer << "" << endl;
     }
     
     return 0;

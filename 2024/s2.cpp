@@ -31,7 +31,7 @@ int main() {
             prevHeavy = currHeavy;
         }
         
-        cout << (alternates ? "T" : "F") << "\n";
+        cout << (alternates ? "T" : "F") << "" << endl;
     }
     
     return 0;

@@ -48,15 +48,15 @@ int main() {
     }
     
     if (cur == vals.size()) {
-        cout << "YES\n" << swipeL.size() + swipeR.size() << "\n";
+        cout << "YES\n" << swipeL.size() + swipeR.size() << "" << endl;
         for (auto& p : swipeL) {
-            cout << "L " << p.first << " " << p.second << "\n";
+            cout << "L " << p.first << " " << p.second << "" << endl;
         }
         for (int i = swipeR.size() - 1; i >= 0; i--) {
-            cout << "R " << swipeR[i].first << " " << swipeR[i].second << "\n";
+            cout << "R " << swipeR[i].first << " " << swipeR[i].second << "" << endl;
         }
     } else {
-        cout << "NO\n";
+        cout << "NO" << endl;
     }
     
     return 0;
